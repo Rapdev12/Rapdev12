@@ -60,19 +60,19 @@
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
+- 🌐 Socials:
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%EB%A1%9C%EB%82%A0%EB%93%9C-%ED%8C%94%EB%9D%BC%EC%8B%9C%EC%98%A4-311a6b155/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rpalacioso12@outlook.com) 
 </p>
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rapdev12&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rapdev12&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rapdev12&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 📊 GitHub Stats:
+   ![](https://github-readme-stats.vercel.app/api?username=Rapdev12&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+   ![](https://nirzak-streak-stats.vercel.app/?user=Rapdev12&theme=neon&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rapdev12&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- ✍️ Random Dev Quote
+   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%EB%A1%9C%EB%82%A0%EB%93%9C-%ED%8C%94%EB%9D%BC%EC%8B%9C%EC%98%A4-311a6b155/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rpalacioso12@outlook.com) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+
