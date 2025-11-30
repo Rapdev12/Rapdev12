@@ -64,13 +64,27 @@
 </p>
 
 
-<br><br>
+<hr width="36%" >
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
-<h3 align="left">Activity:</h3>
 
-![Rapdev12 Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rapdev12&custom_title=Rapdev12%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rapdev12&show_icons=true&theme=dark&locale=en" alt="rapdev12" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rapdev12&theme=dark" alt="rapdev12" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/%EB%A1%9C%EB%82%A0%EB%93%9C-%ED%8C%94%EB%9D%BC%EC%8B%9C%EC%98%A4-311a6b155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rapdev12/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
+<a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
+<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+</p>
+<br>
