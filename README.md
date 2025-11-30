@@ -10,7 +10,7 @@
 <h3 align="center">A passionate Programmer from Venezuelan</h3>
 <p align="center">"My fascination with technology is channeled into the design and optimization of high-availability network infrastructures 🌐. I am a Cisco Routing and Switching Specialist, and I am deeply motivated to leverage Cisco equipment and software to ensure robust, efficient, and secure system connectivity. I am constantly exploring 💻 how to implement solutions that improve network performance and scalability 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=Rapdev12&label=Profile%20views&color=0e75b6&style=flat" alt="Ronald Palacios" /> 
 <br>
 </p>
 
