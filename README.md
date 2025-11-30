@@ -63,7 +63,7 @@
 - 🌐 Socials:
   
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%EB%A1%9C%EB%82%A0%EB%93%9C-%ED%8C%94%EB%9D%BC%EC%8B%9C%EC%98%A4-311a6b155/)
-   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rpalacioso12@outlook.com) 
+   [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 </p>
 <br>
 
