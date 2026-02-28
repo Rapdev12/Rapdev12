@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">Hola 👋, Me llamo Ronald Palacios</h1>
-<h3 align="center">Soy de Venezuela <SVGIcon Elements="@SVGIcons.ve" /> </h3>
+<h3 align="center">Soy de Venezuela <img src="https://flagcdn.com/w20/VE.png" alt="Venezuela width="20"> </h3>
 <p align="center">Apasionado por la tecnología y el potencial de los datos, estoy orientando mi carrera hacia el análisis de datos para convertir información compleja en claridad estratégica 📈. Como analista en formación, aprovecho mi base técnica para desarrollar soluciones con Python, utilizando librerías como Pandas y entornos como Jupyter Notebook 💻. Me motiva profundamente aprender a optimizar procesos y explorar nuevas formas de procesar datos de manera eficiente, segura y escalable 🚀🛠️.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Rapdev12&label=Profile%20views&color=0e75b6&style=flat" alt="Ronald Palacios" /> 
