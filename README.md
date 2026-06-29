@@ -34,13 +34,13 @@
 - 📋 Languages:
   
     ![Javascript](https://img.shields.io/badge//JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-    ![TypesScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 - ♾️ Frameworks:
   
     ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
     ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white)
+   
 
 - 📊 Base de Datos:
   
@@ -58,7 +58,8 @@
     
     ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?&logo=jira&logoColor=white)
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?&logo=Trello&logoColor=white)
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white) 
+    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white)
     
 
 
