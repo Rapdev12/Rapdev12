@@ -40,7 +40,7 @@
   
     ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
     ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-8da0cb?style=for-the-badge&labelColor=555555&logo=github)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white)
 
 - 📊 Base de Datos:
   
@@ -49,10 +49,10 @@
 
 - 🎛️ Operating Systen:
         
-    ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+    ![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+    ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=FFF)
+    ![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft)]()
 
 - 🥅 Others:
     
