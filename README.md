@@ -49,10 +49,10 @@
 
 - 🎛️ Operating Systen:
         
-    ![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Debian](https://img.shields.io/badge/debian-red?logoColor=orange&color=darkred)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
     ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=FFF)
-    ![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft)]()
+    ![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft)
 
 - 🥅 Others:
     
