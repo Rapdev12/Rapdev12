@@ -40,7 +40,7 @@
   
     ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
     ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-8da0cb?style=for-the-badge&labelColor=555555&logo=github)
 
 - 📊 Base de Datos:
   
