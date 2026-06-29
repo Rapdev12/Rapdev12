@@ -33,19 +33,19 @@
 
 - 📋 Languages:
   
-    ![Python](https://img.shields.io/badge//JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-    ![Shell Script](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+    ![Javascript](https://img.shields.io/badge//JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+    ![TypesScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
-- ☁️ Cloud:
+- ♾️ Frameworks:
   
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-- ♾️ DevOps:
-  
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+    ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+- 📊 Base de Datos:
+  
+    ![Mysql](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
+    ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 - 🎛️ Operating Systen:
         
@@ -59,9 +59,7 @@
     ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-    ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-    ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-    ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+    
 
 
 </p>
