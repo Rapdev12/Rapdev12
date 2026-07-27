@@ -6,8 +6,8 @@
 
 </div>
 
-<h1 align="center">Hola 👋, Me llamo Ronald Palacios</h1>
-<h3 align="center">Soy de Venezuela <img
+<h1 align="center">Hello 👋, I am Ronald Palacios</h1>
+<h3 align="center">I am from Venezuela <img
   src="https://flagcdn.com/16x12/ve.png"
   srcset="https://flagcdn.com/32x24/ve.png 2x,
     https://flagcdn.com/48x36/ve.png 3x"
