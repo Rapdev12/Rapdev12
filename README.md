@@ -14,7 +14,7 @@
   width="20"
   height="20"
   alt="Venezuela"> </h3>
-<p align="center">Apasionado por la tecnología y la creación de soluciones digitales interactivas, estoy impulsando mi carrera hacia el desarrollo web Full Stack con el objetivo de aportar valor en mis primeros retos profesionales y crecer junto a equipos técnicos 💻. Enfoco mi aprendizaje y proyectos en el ecosistema de JavaScript, construyendo interfaces dinámicas con React y desarrollando lógica del lado del servidor con Node.js 🚀. Integrar TypeScript en mi flujo de trabajo me permite adoptar buenas prácticas desde el inicio, asegurando un código limpio y estructurado. Me motiva profundamente integrarme a entornos reales, optimizar mis habilidades y contribuir al desarrollo de software moderno y escalable 🛠️🌐.</p>
+<p align="center">Passionate about technology and interactive digital solutions, I am transitioning my career into Full Stack Web Development with the drive to deliver value in my early professional milestones and grow alongside high-performing engineering teams 💻. My core focus lies within the JavaScript ecosystem—building dynamic, responsive user interfaces with React and architecting robust server-side logic using Node.js 🚀. By embedding TypeScript into my daily workflow, I enforce strict typing and best practices from day one, ensuring clean, scalable, and maintainable codebases. I am deeply motivated to step into real-world environments, continuously sharpen my technical acumen, and contribute to modern software engineering 🛠️🌐.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Rapdev12&label=Profile%20views&color=0e75b6&style=flat" alt="Ronald Palacios" /> 
 <br>
